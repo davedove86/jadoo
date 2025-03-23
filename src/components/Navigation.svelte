@@ -6,7 +6,7 @@
           <li><a href="/">Hotels</a></li>
           <li><a href="/">Flights</a></li>
           <li><a href="/">Bookings</a></li>
-          <button class="button">Sign up</button>
+          <button class="button">Login</button>
 
       </ul>
   </nav>
@@ -51,17 +51,6 @@
 
   a:hover {
     color: #df6951;
-  }
-
-  .button {
-    background-color: #df6951;
-    color: white;
-    padding: 12px 24px;
-    border-radius: 10px;
-    border: 2px solid #df6951;
-    font-weight: 600;
-    cursor: pointer;
-    text-align: center;
   }
 
   @media (max-width: 768px) {
